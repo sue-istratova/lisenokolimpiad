@@ -1418,3 +1418,33 @@ line-height: 1.5;
   margin-top: 5px;
   padding: 15px 15px 15px 15px;
 }
+
+  /* TASKS ARCHIVE 2023-2024. PDF and online */
+  .archive_2023-2024_tasks_pdf {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    background-color:  rgb(235, 235, 235);
+    margin-top: 5px;
+    padding: 5px;
+  }
+
+  .archive_2023-2024_tasks_online {
+    text-align: left;
+    padding: 0px;
+  }
+
+  /* ANSWERS ARCHIVE 2023-2024 PDF and Webwiew*/
+  .archive_2023-2024_answ_pdf {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    background-color:  rgb(235, 235, 235);
+    margin-top: 5px;
+    padding: 5px;
+  }
+
+  .archive_2023-2024_answ_online {
+    text-align: center;
+    padding: 0px;
+  }
