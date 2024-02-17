@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title> Лисенок </title>
+  <link rel = "icon" href = "lisenok.ico" type = "image/x-icon">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body bgcolor = "#ffe7d3">
+  
+    <table border = '1' width = 100%>
+  <tr width = 100%>
+      <td class = "up1" colspan="4" height = 60px width = 100% align="center" valign = "center"> <a href = "index.html" align = center valign = center > <img src = "lisenok-tit.png" height = 90% title = "На главную"> </a> </td>
+    <!--  <thttps://t.me/sue_chnld align = 'right' width = 88% colspan = '3' class = "up2">
+  <h2 style = "color: black;"> <p align = center> Олимпиада "Лисенок" </h2> </td> --> </tr> </table>
+
+  
+  <table cellspacing="0" width = 100% class = "big">
+    <!-- Upper panel -->
+    <tr height = 100px>
+      <td width = 100%>
+      <table width = 100% class = "tit">
+        <tr width = 100%>
+      <td align = center width = 12% class = "tit"> <a href = "index.html"> <img src = "lisenok.png" width = 70% title = "На главную"> </a> </td>
+      <td align = 'right' width = 85% colspan = '3' class = "tit">
+  <h2 style = "color: grey;"> <p align = center> Олимпиада "Лисенок" </h2> </td> </tr> </table>
+  </td>
+      
+    </tr>
+    <tr>
+      <td class = "main">
+<table> <tr> <td>
+  <div class="dropdownB">
+  <button onclick="myFunctionB()" id = "dropbtnB" class="dropbtnB" width = 40px> <img src = "menu.png" width = 40px margin-left = 0px> </button>
+  <div id="myDropdownB" class="dropdownB-content">
+      <h2 align = center> Навигация </h2> 
+    <hr>
+    <button onclick="document.location='index.html'" class = "bot"> <img src = "rus.png" width = 20px> </button>
+    <button onclick="document.location='indexe.html'" class = "bot"> <img src = "en.png" width = 20px> </button>
+      <br>
+    <button onclick="main()" class="but1n" width = 100%> Главная </button> 
+    <br>
+    <button onclick="about()" class="but2" width = 100%> Об олимпиаде </button>
+    <br>
+     <button onclick="myFunction()" class="dropbtn" width = 100%> Новости </button>
+  <div id="myDropdown" class="dropdown-content">
+    <a href="2023.html" class = 't3'><b> 05.06.2023 </b> Открыта регистрация на кружок по математике</a>
+    <a href="2022.html" class = 't4'><b> 04.06.2023 </b> Добавлены решения задач Варианта - 2 </a>
+    <a href="news.html" class = 't3'> Все новости </a>
+  </div>
+    <br>
+    <button onclick="archive()" class="but2" width = 100%> Архив </button>
+    <br>
+    <button onclick="myFunction1()" class="dropbtn1" width = 100%> Примеры заданий</button>
+  <div id="myDropdown1" class="dropdown1-content">
+    <a href="2023.html" class = "t3"> Вариант - 1 </a>
+    <a href="2022.html" class = "t4"> Вариант - 2</a>
+  </div>
+    <br>
+     <button onclick="dop()" class="but2" width = 100%> Кружок </button>
+    <br>
+    <button onclick="support()" class="but1" width = 100%> Связь с нами </button>
+    <br>
+    <button onclick="document.location='https://web.telegram.org/k/#@sue_istratova'" class = "bot"> <img src = "tg.png" width = 20px> </button> 
+    <button onclick="document.location='support.html'" class = "bot"> <img src = "call.png" width = 20px> </button> 
+      <button onclick="document.location='support.html'" class = "bot"> <img src = "mail.png" width = 20px> </button> <br>
+    
+  </div>
+
+    
+        <p align s>
+           <h2> Об олимпиаде </h2>
+          <table cellspacing="0" width = 100%>
+            <tr> <td width = 50%> <div class = "ab_lis" width = 100%> <img src = "lisenok.png" width = 80px> </div> </td> <td width = 50%> 
+  <div class = "ab_txt" width = 100%><h4 class = "ab"> Олимпиада "Лисенок"</h4> <ul class = "ab_txt_t">
+    <li class = "ab_t"> Впервые пройдет в 2023 году </li>
+    <li class = "ab_t"> Олимпиада по математике </li>
+    <li class = "ab_t"> Для школьников 1-4 классов </li>
+    <li class = "ab_t"> Очный формат проведения </li>
+    <li class = "ab_t"> Все участники получают сертификаты </li>
+    <li class = "ab_t"> Призеры и победители получают подарки </li>
+  </ul> </div></td></tr> </table>
+
+  Также, скоро откроется кружок по олимпиадной математике. За актуальной информацией следите <a href = "dop.html"> по ссылке </a>
+        <dfn> На данный момент происходит обновление сайта. Приносим извинения за доставленные неудобства! </dfn>
+        </p>
+    
+      </td> </tr> </table>
+      </td> </tr>
+  </table>
+  
+  <script src="script.js"></script>
+  <script src="https://replit.com/public/js/replit-badge-v2.js" theme="dark" position="bottom-right"></script>
+</body>
+
+</html>
