@@ -1409,3 +1409,12 @@ line-height: 1.5;
   color: white;
   font-size: 12px;
 }
+
+.archive_2023-2024_tasks, .archive_2023-2024_answ {
+  width: 90%;
+  margin: auto;
+  height: auto;
+  background-color:  rgb(235, 235, 235);
+  margin-top: 5px;
+  padding: 15px 15px 15px 15px;
+}
