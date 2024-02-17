@@ -1448,3 +1448,19 @@ line-height: 1.5;
     text-align: center;
     padding: 0px;
   }
+
+/* MEDIA */
+.media_2023-2024_answ_pdf {
+    width: 100%;
+    margin: auto;
+    height: auto;
+    background-color:  rgb(235, 235, 235);
+    margin-top: 5px;
+    padding: 5px;
+  }
+
+  .media_2023-2024_answ_online {
+    text-align: center;
+    padding: 0px;
+  }
+
